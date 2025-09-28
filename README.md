@@ -8,7 +8,7 @@ The allrcan file successfully addresses all components outlined in the assignmen
 
 Structure: Valid HTML5 boilerplate, clear headings (<h1>, <h2>, etc.), and HTML comments before major sections.
 
-Text Formatting: Correct use of bold (\*_), italic (_), <u>underline</u> (<u>), and <s>strikethrough</s> (<s>) in paragraphs.
+Text Formatting: Correct use of bold (\*_), italic (_), uunderline/u (u), and sstrikethrough(s) in paragraphs.
 
 Media: Two images (one destination, one activity) included using placeholder URLs.
 
@@ -18,7 +18,7 @@ Lists: Implemented Ordered List (<ol>), Unordered List (<ul>), and Definition Li
 
 Table: A detailed table with four columns displaying destination, pricing (hotel/package), and an external link to the official tourism site.
 
-Separation: Horizontal lines (<hr>) and line breaks (<br>) are used to organize content.
+Separation: Horizontal lines (hr) and line breaks (br) are used to organize content.
 
 👩‍💻 Student & Project Details
 Detail
